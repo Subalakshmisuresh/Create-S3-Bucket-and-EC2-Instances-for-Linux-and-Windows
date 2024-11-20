@@ -38,8 +38,8 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-### REG NUMBER : 212222100030
-### NAME : NANDHINI E
+### REG NUMBER : 212222100051
+### NAME : SUBALAKSHMI S
 
 ## S3 BUCKET:
 ![Screenshot 2024-11-20 212724](https://github.com/user-attachments/assets/28c565aa-93f5-4306-a454-280eb4f80244)
